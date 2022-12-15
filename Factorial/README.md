@@ -3,9 +3,12 @@ In This file I have made the code on how to find factorial of a number in two wa
 
 In file factorial.c factorial of number is calculated using recursion method while in factorial2.c file factorial of number is calculated using simply loops.
 
+Below is definition of Recursion:-
+
 **Recursion is the technique of making a function call itself. This technique provides a way to break complicated problems down into simple problems which are easier to solve.**
 
-```For example:
+For example:
+```
             #include<stdio.h>
             void main(){
                                 
