@@ -1,3 +1,5 @@
+# CO-PRIME NUMBERS
+
 This code is regarding Co-Prime Numbers where we will chech if number and its reverse digit will be mutually Co-Prime or not.
 
 **Two numbers A and B are said to be Co-Prime or mutually prime if the Greatest Common Divisor of them is 1.**
