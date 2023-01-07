@@ -1,3 +1,3 @@
 **PROBLEM STATEMENT:**
 
-THE TEMPERATURE OF CITY IN FAHRENHEIT DEGREES IS INPUT THROUGH THE KEYBOARD. WRITE A PROGRAM TO CONVERT THIS TEMPERATURE INTO CENTIGRADE DEGREES.
+The temperature of a city in fahrenheit degrees is input through the keyboard. Write a program to convert this temperature into Centigrade degrees.
