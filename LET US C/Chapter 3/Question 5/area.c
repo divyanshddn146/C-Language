@@ -11,9 +11,9 @@ void main(){
 	p=2*(l+b);
 
 	if(a>p)
-		printf("The area of rectangle is greter than perimeter\n");
+		printf("The area of rectangle is greater than perimeter\n");
 	else
-		printf("The perimeter of triangle is greter than its area\n");
+		printf("The perimeter of triangle is greater than its area\n");
 
 
 
